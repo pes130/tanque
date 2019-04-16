@@ -3,8 +3,8 @@ LOGS_RUTA = "/home/pablo/tanque/logs"
 LOGS_FICHERO = "tanque.log"
 
 
-MOTOR_RF = 40
-MOTOR_RB = 38
+MOTOR_RF = 15
+MOTOR_RB = 13
 
-MOTOR_LF = 36
-MOTOR_LB = 35
+MOTOR_LF = 16
+MOTOR_LB = 18
